@@ -94,11 +94,22 @@ header {
 
 /* Section 1 style starts */
 
+.section1 {
+  margin-top: 178px;
+}
+
 .section1-div1 {
+  margin-bottom: 48px;
+}
+
+.section1-div1-h3 {
+  margin-bottom: 24px;
 }
 
 .section1-div2 {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin-left: 240px;
+  margin-right: 240px;
 }
