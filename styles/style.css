@@ -31,6 +31,8 @@ header {
 .header-main-div {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  margin-left: 200px;
 }
 
 .header-div1 {
@@ -50,6 +52,9 @@ header {
   font-style: normal;
   font-weight: 400;
   line-height: 30px;
+}
+
+.header-flower {
 }
 
 .header-div2 {
