@@ -1,3 +1,5 @@
+/* Global style starts */
+
 * {
   padding: 0px;
   margin: 0px;
@@ -10,16 +12,13 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  /* display: inline-flex; */
   padding: 20px 43px;
-  /* align-items: flex-start; */
-  /* gap: 10px; */
   border-radius: 8px;
   background: #e55473;
   border: 0;
 }
 
-h3 {
+h2 {
   color: #272727;
   text-align: center;
   font-size: 40px;
@@ -28,7 +27,8 @@ h3 {
   line-height: normal;
 }
 
-h6 {
+h3 {
+
 }
 
 .global-p {
@@ -41,14 +41,7 @@ h6 {
   line-height: 30px;
 }
 
-.img {
-  width: 464px;
-  height: 538px;
-  flex-shrink: 0;
-
-  border-radius: 300px 300px 0px 0px;
-  background: rgba(167, 33, 98, 0.15);
-}
+/* Global style ends */
 
 /* Header Styles start */
 
@@ -61,9 +54,6 @@ header {
   justify-content: space-around;
   align-items: center;
   margin-left: 200px;
-}
-
-.header-div1 {
 }
 
 .header-h1 {
@@ -84,32 +74,75 @@ header {
   margin-bottom: 32px;
 }
 
-.header-div2 {
-}
-
-.header-flower {
-}
-
 /* Header styles end */
 
-/* Section 1 style starts */
+/* Main style starts */
+
+/* Section 1 starts */
 
 .section1 {
+  margin-bottom: 240px;
+}
+
+.section1-h2 {
   margin-top: 178px;
-}
-
-.section1-div1 {
-  margin-bottom: 48px;
-}
-
-.section1-div1-h3 {
   margin-bottom: 24px;
 }
 
-.section1-div2 {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin-left: 240px;
-  margin-right: 240px;
+.section1-p {
+  margin-bottom: 48px;
 }
+
+.section1-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.section1-div1 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background-color: rgba(167, 33, 98, 0.15);
+}
+.section1-div2 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+}
+.section1-div3 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background-color: rgba(71, 125, 17, 0.15);
+}
+.section1-img1 {
+  padding: 110px 78px 0px 76px;
+}
+.section1-img2 {
+  padding: 117px 47px 51px 47px;
+}
+.section1-img3 {
+  padding: 67px 75px 0px 75px;
+}
+
+.section1-h3 {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+  margin-top: 32px;
+}
+
+/* Section 1 ends */
+
+/* Section 2 starts */
+
+
+
+/* Section 2 ends */
