@@ -28,7 +28,13 @@ h2 {
 }
 
 h3 {
-
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
 }
 
 .global-p {
@@ -143,6 +149,36 @@ header {
 
 /* Section 2 starts */
 
-
+.section2 {
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.section2-div {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+  margin-top: 24px;
+  width: 100%;
+}
+.section2-h3 {
+  text-align: center;
+  gap: 100px;
+  margin-top: 24px;
+}
 
 /* Section 2 ends */
+
+/* Section 3 Starts */
+
+
+
+
+/* Section 3 ends */
