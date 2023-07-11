@@ -30,7 +30,6 @@ h2 {
 h3 {
   color: rgba(39, 39, 39, 0.8);
   text-align: center;
-  font-family: Lato;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -40,7 +39,6 @@ h3 {
 .global-p {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -313,7 +311,6 @@ header {
 .form {
   width: 700px;
   height: 64px;
-  flex-shrink: 0;
   border-radius: 8px;
   background: #fff;
 }
@@ -327,6 +324,8 @@ header {
 }
 
 /* Section 6 ends */
+
+/* Main style ends */
 
 /* Footer starts */
 
@@ -355,7 +354,6 @@ header {
 .footer-p1 {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
