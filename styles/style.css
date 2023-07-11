@@ -212,3 +212,44 @@ header {
 
 /* Section 3 ends */
 
+/* Section 4 starts */
+
+.section4-h2 {
+  margin-bottom: 24px;
+}
+
+.section4-p {
+  margin-bottom: 48px;
+}
+
+.section4-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 40px;
+  margin-bottom: 128px;
+}
+
+.section4-img1 {
+  width: 342px;
+  height: 396px;
+  background: lightgray;
+}
+.section4-img2 {
+  width: 342px;
+  height: 396px;
+  background: lightgray;
+}
+.section4-img3 {
+  width: 342px;
+  height: 396px;
+  background: lightgray;
+}
+.section4-img4 {
+  width: 342px;
+  height: 396px;
+  background: lightgray;
+}
+
+/* Section 4 ends */
